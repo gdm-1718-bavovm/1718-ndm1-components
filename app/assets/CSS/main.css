@@ -1,0 +1,36 @@
+.btn{
+    border: 1px solid #F00;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #F00;
+    font-family: 'Krona One', sans-serif;
+}
+
+.btn:hover{
+    background: #F00;
+    color: #fff;
+}
+
+.primary-btn{
+    background: green;
+    color:#fff;
+    border-color: green;
+}
+
+.primary-btn:hover{
+    background: #fff;
+    color: green;
+
+}
+
+.secondary-btn{
+    background: blue;
+    color: #fff;
+    border-color: blue;
+}
+
+.secondary-btn:hover{
+    background: #fff;
+    color: blue;
+}
